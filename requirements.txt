@@ -23,4 +23,4 @@ joblib>=1.4.2
 
 # Optional but Recommended
 nltk>=3.9.1          # for text preprocessing
-scipy>=1.14.1        # for metrics and similarity functions
+scipy>=1.13.0,<1.14.0        # for metrics and similarity functions
