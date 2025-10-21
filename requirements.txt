@@ -1,0 +1,26 @@
+# Core ML & Transformers
+transformers>=4.44.2
+sentence-transformers>=3.0.1
+torch>=2.3.1
+accelerate>=0.34.2
+
+# Machine Learning Utilities
+scikit-learn>=1.5.2
+numpy>=1.26.4
+pandas>=2.2.3
+
+# Visualization & Dashboard
+streamlit>=1.39.0
+plotly>=5.24.1
+matplotlib>=3.9.2
+seaborn>=0.13.2
+
+# Utilities & Helpers
+tqdm>=4.66.5
+requests>=2.32.3
+regex>=2024.9.11
+joblib>=1.4.2
+
+# Optional but Recommended
+nltk>=3.9.1          # for text preprocessing
+scipy>=1.14.1        # for metrics and similarity functions

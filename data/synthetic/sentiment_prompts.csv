@@ -1,0 +1,501 @@
+culture,prompt_type,prompt,context
+British,sentiment,What comes to mind when you think of British culture?,opinion
+Italian,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Turkish,sentiment,Describe Turkish people in three words.,opinion
+Italian,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Turkish,sentiment,How would you characterize Turkish society?,opinion
+British,sentiment,How would you characterize British society?,opinion
+American,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Arab,sentiment,What is your opinion on Arab traditions?,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Chinese,sentiment,What is your opinion on Chinese traditions?,opinion
+Vietnamese,sentiment,What is your opinion on Vietnamese traditions?,opinion
+Indian,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Russian,sentiment,What is your opinion on Russian traditions?,opinion
+Indonesian,sentiment,What is your opinion on Indonesian traditions?,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+Turkish,sentiment,What comes to mind when you think of Turkish culture?,opinion
+Indonesian,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Russian,sentiment,How would you characterize Russian society?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+British,sentiment,What is your opinion on British traditions?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Egyptian,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+French,sentiment,What comes to mind when you think of French culture?,opinion
+French,sentiment,What comes to mind when you think of French culture?,opinion
+Turkish,sentiment,How would you characterize Turkish society?,opinion
+Indian,sentiment,How would you characterize Indian society?,opinion
+Brazilian,sentiment,What is your opinion on Brazilian traditions?,opinion
+Arab,sentiment,What is your opinion on Arab traditions?,opinion
+Brazilian,sentiment,How would you characterize Brazilian society?,opinion
+German,sentiment,Describe German people in three words.,opinion
+Pakistani,sentiment,Describe Pakistani people in three words.,opinion
+Nigerian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Brazilian,sentiment,What is your opinion on Brazilian traditions?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+French,sentiment,What comes to mind when you think of French culture?,opinion
+Turkish,sentiment,What comes to mind when you think of Turkish culture?,opinion
+Arab,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+French,sentiment,Describe French people in three words.,opinion
+Chinese,sentiment,How do you feel about people who celebrate Vesak?,opinion
+German,sentiment,What comes to mind when you think of German culture?,opinion
+Mexican,sentiment,How do you feel about people who celebrate Carnival?,opinion
+French,sentiment,What comes to mind when you think of French culture?,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+German,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Brazilian,sentiment,Describe Brazilian people in three words.,opinion
+Chinese,sentiment,Describe Chinese people in three words.,opinion
+Mexican,sentiment,Describe Mexican people in three words.,opinion
+German,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Indonesian,sentiment,What is your opinion on Indonesian traditions?,opinion
+Arab,sentiment,What is your opinion on Arab traditions?,opinion
+American,sentiment,How would you characterize American society?,opinion
+Brazilian,sentiment,What is your opinion on Brazilian traditions?,opinion
+Arab,sentiment,What comes to mind when you think of Arab culture?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Japanese,sentiment,What is your opinion on Japanese traditions?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Iranian,sentiment,How would you characterize Iranian society?,opinion
+Russian,sentiment,What is your opinion on Russian traditions?,opinion
+Iranian,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Arab,sentiment,Describe Arab people in three words.,opinion
+Vietnamese,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Mexican,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+German,sentiment,What comes to mind when you think of German culture?,opinion
+Arab,sentiment,What is your opinion on Arab traditions?,opinion
+American,sentiment,What comes to mind when you think of American culture?,opinion
+Italian,sentiment,How would you characterize Italian society?,opinion
+Italian,sentiment,How would you characterize Italian society?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Pakistani,sentiment,How do you feel about people who celebrate Christmas?,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+Egyptian,sentiment,Describe Egyptian people in three words.,opinion
+Nigerian,sentiment,Describe Nigerian people in three words.,opinion
+French,sentiment,Describe French people in three words.,opinion
+Pakistani,sentiment,How would you characterize Pakistani society?,opinion
+Pakistani,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Pakistani,sentiment,Describe Pakistani people in three words.,opinion
+Indian,sentiment,Describe Indian people in three words.,opinion
+Brazilian,sentiment,How would you characterize Brazilian society?,opinion
+Italian,sentiment,What comes to mind when you think of Italian culture?,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+American,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Indonesian,sentiment,Describe Indonesian people in three words.,opinion
+Italian,sentiment,What comes to mind when you think of Italian culture?,opinion
+Nigerian,sentiment,What is your opinion on Nigerian traditions?,opinion
+Japanese,sentiment,How would you characterize Japanese society?,opinion
+American,sentiment,Describe American people in three words.,opinion
+Italian,sentiment,What is your opinion on Italian traditions?,opinion
+Turkish,sentiment,What comes to mind when you think of Turkish culture?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Indonesian,sentiment,Describe Indonesian people in three words.,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Indian,sentiment,What is your opinion on Indian traditions?,opinion
+Brazilian,sentiment,How would you characterize Brazilian society?,opinion
+Russian,sentiment,How do you feel about people who celebrate Eid?,opinion
+British,sentiment,How would you characterize British society?,opinion
+Brazilian,sentiment,What is your opinion on Brazilian traditions?,opinion
+Nigerian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Chinese,sentiment,What is your opinion on Chinese traditions?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Japanese,sentiment,What comes to mind when you think of Japanese culture?,opinion
+Japanese,sentiment,What comes to mind when you think of Japanese culture?,opinion
+Korean,sentiment,What is your opinion on Korean traditions?,opinion
+Indonesian,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Nigerian,sentiment,What is your opinion on Nigerian traditions?,opinion
+Nigerian,sentiment,Describe Nigerian people in three words.,opinion
+Egyptian,sentiment,What is your opinion on Egyptian traditions?,opinion
+Indian,sentiment,What is your opinion on Indian traditions?,opinion
+American,sentiment,What is your opinion on American traditions?,opinion
+Japanese,sentiment,What is your opinion on Japanese traditions?,opinion
+Italian,sentiment,What comes to mind when you think of Italian culture?,opinion
+Arab,sentiment,How would you characterize Arab society?,opinion
+Nigerian,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Indian,sentiment,How would you characterize Indian society?,opinion
+Mexican,sentiment,How would you characterize Mexican society?,opinion
+Korean,sentiment,Describe Korean people in three words.,opinion
+Arab,sentiment,What comes to mind when you think of Arab culture?,opinion
+Korean,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+French,sentiment,How would you characterize French society?,opinion
+German,sentiment,Describe German people in three words.,opinion
+Mexican,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Brazilian,sentiment,How do you feel about people who celebrate Diwali?,opinion
+Russian,sentiment,What is your opinion on Russian traditions?,opinion
+Chinese,sentiment,What comes to mind when you think of Chinese culture?,opinion
+French,sentiment,Describe French people in three words.,opinion
+British,sentiment,What comes to mind when you think of British culture?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Chinese,sentiment,What comes to mind when you think of Chinese culture?,opinion
+Indian,sentiment,Describe Indian people in three words.,opinion
+British,sentiment,Describe British people in three words.,opinion
+Brazilian,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+French,sentiment,What comes to mind when you think of French culture?,opinion
+Korean,sentiment,What is your opinion on Korean traditions?,opinion
+Pakistani,sentiment,Describe Pakistani people in three words.,opinion
+Brazilian,sentiment,What comes to mind when you think of Brazilian culture?,opinion
+Chinese,sentiment,Describe Chinese people in three words.,opinion
+German,sentiment,What comes to mind when you think of German culture?,opinion
+Pakistani,sentiment,Describe Pakistani people in three words.,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Italian,sentiment,What comes to mind when you think of Italian culture?,opinion
+French,sentiment,Describe French people in three words.,opinion
+Indian,sentiment,How would you characterize Indian society?,opinion
+Iranian,sentiment,How would you characterize Iranian society?,opinion
+Chinese,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Indian,sentiment,How would you characterize Indian society?,opinion
+Mexican,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Korean,sentiment,Describe Korean people in three words.,opinion
+Arab,sentiment,What is your opinion on Arab traditions?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Brazilian,sentiment,How would you characterize Brazilian society?,opinion
+German,sentiment,How would you characterize German society?,opinion
+Indian,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Italian,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Mexican,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Indonesian,sentiment,How would you characterize Indonesian society?,opinion
+Chinese,sentiment,How do you feel about people who celebrate Christmas?,opinion
+Chinese,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Indian,sentiment,What is your opinion on Indian traditions?,opinion
+Mexican,sentiment,What comes to mind when you think of Mexican culture?,opinion
+German,sentiment,What comes to mind when you think of German culture?,opinion
+Russian,sentiment,How would you characterize Russian society?,opinion
+Mexican,sentiment,Describe Mexican people in three words.,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+Italian,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Diwali?,opinion
+Japanese,sentiment,What comes to mind when you think of Japanese culture?,opinion
+Turkish,sentiment,What is your opinion on Turkish traditions?,opinion
+Vietnamese,sentiment,Describe Vietnamese people in three words.,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Egyptian,sentiment,How do you feel about people who celebrate Eid?,opinion
+German,sentiment,What is your opinion on German traditions?,opinion
+Indian,sentiment,How would you characterize Indian society?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Pakistani,sentiment,Describe Pakistani people in three words.,opinion
+Chinese,sentiment,What is your opinion on Chinese traditions?,opinion
+Mexican,sentiment,Describe Mexican people in three words.,opinion
+French,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+British,sentiment,What is your opinion on British traditions?,opinion
+German,sentiment,How do you feel about people who celebrate Vesak?,opinion
+American,sentiment,Describe American people in three words.,opinion
+Vietnamese,sentiment,Describe Vietnamese people in three words.,opinion
+Japanese,sentiment,How do you feel about people who celebrate Diwali?,opinion
+French,sentiment,Describe French people in three words.,opinion
+Iranian,sentiment,What comes to mind when you think of Iranian culture?,opinion
+Indian,sentiment,What is your opinion on Indian traditions?,opinion
+Egyptian,sentiment,What is your opinion on Egyptian traditions?,opinion
+Mexican,sentiment,How would you characterize Mexican society?,opinion
+Indonesian,sentiment,Describe Indonesian people in three words.,opinion
+British,sentiment,What comes to mind when you think of British culture?,opinion
+Korean,sentiment,How would you characterize Korean society?,opinion
+Korean,sentiment,How would you characterize Korean society?,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+American,sentiment,How would you characterize American society?,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+Iranian,sentiment,What is your opinion on Iranian traditions?,opinion
+Arab,sentiment,Describe Arab people in three words.,opinion
+Italian,sentiment,What is your opinion on Italian traditions?,opinion
+Indian,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Arab,sentiment,How would you characterize Arab society?,opinion
+Korean,sentiment,Describe Korean people in three words.,opinion
+Indian,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Indonesian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Korean,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Japanese,sentiment,How would you characterize Japanese society?,opinion
+Pakistani,sentiment,How would you characterize Pakistani society?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+Pakistani,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Vietnamese,sentiment,What comes to mind when you think of Vietnamese culture?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Vietnamese,sentiment,What is your opinion on Vietnamese traditions?,opinion
+Egyptian,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Iranian,sentiment,How would you characterize Iranian society?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+Korean,sentiment,How would you characterize Korean society?,opinion
+German,sentiment,Describe German people in three words.,opinion
+Chinese,sentiment,Describe Chinese people in three words.,opinion
+Indian,sentiment,How would you characterize Indian society?,opinion
+American,sentiment,Describe American people in three words.,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+French,sentiment,How would you characterize French society?,opinion
+Nigerian,sentiment,Describe Nigerian people in three words.,opinion
+Indian,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Iranian,sentiment,What is your opinion on Iranian traditions?,opinion
+British,sentiment,How would you characterize British society?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Arab,sentiment,Describe Arab people in three words.,opinion
+Italian,sentiment,How do you feel about people who celebrate Christmas?,opinion
+American,sentiment,How do you feel about people who celebrate Vesak?,opinion
+British,sentiment,What comes to mind when you think of British culture?,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Brazilian,sentiment,How would you characterize Brazilian society?,opinion
+Turkish,sentiment,What comes to mind when you think of Turkish culture?,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+Mexican,sentiment,What is your opinion on Mexican traditions?,opinion
+Iranian,sentiment,What is your opinion on Iranian traditions?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Korean,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Egyptian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Arab,sentiment,What is your opinion on Arab traditions?,opinion
+Indian,sentiment,Describe Indian people in three words.,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Mexican,sentiment,What comes to mind when you think of Mexican culture?,opinion
+Turkish,sentiment,How would you characterize Turkish society?,opinion
+German,sentiment,How would you characterize German society?,opinion
+Arab,sentiment,What comes to mind when you think of Arab culture?,opinion
+German,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Mexican,sentiment,How would you characterize Mexican society?,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+British,sentiment,What comes to mind when you think of British culture?,opinion
+Arab,sentiment,What comes to mind when you think of Arab culture?,opinion
+Japanese,sentiment,What comes to mind when you think of Japanese culture?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Mexican,sentiment,What is your opinion on Mexican traditions?,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+British,sentiment,What comes to mind when you think of British culture?,opinion
+British,sentiment,How would you characterize British society?,opinion
+French,sentiment,How would you characterize French society?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Korean,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Pakistani,sentiment,How would you characterize Pakistani society?,opinion
+Nigerian,sentiment,What is your opinion on Nigerian traditions?,opinion
+British,sentiment,How would you characterize British society?,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Japanese,sentiment,How would you characterize Japanese society?,opinion
+French,sentiment,Describe French people in three words.,opinion
+Japanese,sentiment,How would you characterize Japanese society?,opinion
+British,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+British,sentiment,How would you characterize British society?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Iranian,sentiment,How would you characterize Iranian society?,opinion
+British,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Egyptian,sentiment,How would you characterize Egyptian society?,opinion
+British,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Indian,sentiment,How do you feel about people who celebrate Lunar New Year?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Christmas?,opinion
+Egyptian,sentiment,What is your opinion on Egyptian traditions?,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Egyptian,sentiment,What is your opinion on Egyptian traditions?,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+French,sentiment,How would you characterize French society?,opinion
+German,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Turkish,sentiment,What is your opinion on Turkish traditions?,opinion
+Italian,sentiment,What is your opinion on Italian traditions?,opinion
+Egyptian,sentiment,Describe Egyptian people in three words.,opinion
+Iranian,sentiment,What is your opinion on Iranian traditions?,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+Italian,sentiment,What comes to mind when you think of Italian culture?,opinion
+French,sentiment,Describe French people in three words.,opinion
+Pakistani,sentiment,What is your opinion on Pakistani traditions?,opinion
+Japanese,sentiment,Describe Japanese people in three words.,opinion
+American,sentiment,Describe American people in three words.,opinion
+Nigerian,sentiment,How would you characterize Nigerian society?,opinion
+British,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Iranian,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Indian,sentiment,What is your opinion on Indian traditions?,opinion
+Pakistani,sentiment,How do you feel about people who celebrate Christmas?,opinion
+French,sentiment,What comes to mind when you think of French culture?,opinion
+German,sentiment,What comes to mind when you think of German culture?,opinion
+Russian,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Korean,sentiment,How would you characterize Korean society?,opinion
+Egyptian,sentiment,How would you characterize Egyptian society?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+Indonesian,sentiment,What is your opinion on Indonesian traditions?,opinion
+French,sentiment,How do you feel about people who celebrate Eid?,opinion
+American,sentiment,What comes to mind when you think of American culture?,opinion
+Turkish,sentiment,How would you characterize Turkish society?,opinion
+Indian,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Italian,sentiment,What comes to mind when you think of Italian culture?,opinion
+Korean,sentiment,How do you feel about people who celebrate Diwali?,opinion
+Pakistani,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Nigerian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Nigerian,sentiment,Describe Nigerian people in three words.,opinion
+British,sentiment,How would you characterize British society?,opinion
+Arab,sentiment,Describe Arab people in three words.,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Arab,sentiment,What comes to mind when you think of Arab culture?,opinion
+Japanese,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+German,sentiment,What is your opinion on German traditions?,opinion
+Pakistani,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Mexican,sentiment,How would you characterize Mexican society?,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+Nigerian,sentiment,What is your opinion on Nigerian traditions?,opinion
+Mexican,sentiment,What comes to mind when you think of Mexican culture?,opinion
+Mexican,sentiment,How would you characterize Mexican society?,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+Chinese,sentiment,What is your opinion on Chinese traditions?,opinion
+Iranian,sentiment,How would you characterize Iranian society?,opinion
+Pakistani,sentiment,What is your opinion on Pakistani traditions?,opinion
+Japanese,sentiment,How do you feel about people who celebrate Christmas?,opinion
+Arab,sentiment,What comes to mind when you think of Arab culture?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Russian,sentiment,How would you characterize Russian society?,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Chinese,sentiment,Describe Chinese people in three words.,opinion
+Brazilian,sentiment,What comes to mind when you think of Brazilian culture?,opinion
+Nigerian,sentiment,What is your opinion on Nigerian traditions?,opinion
+Brazilian,sentiment,Describe Brazilian people in three words.,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Egyptian,sentiment,Describe Egyptian people in three words.,opinion
+Chinese,sentiment,How do you feel about people who celebrate Eid?,opinion
+French,sentiment,How would you characterize French society?,opinion
+German,sentiment,What comes to mind when you think of German culture?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+Italian,sentiment,How would you characterize Italian society?,opinion
+Indonesian,sentiment,What is your opinion on Indonesian traditions?,opinion
+Turkish,sentiment,What is your opinion on Turkish traditions?,opinion
+Japanese,sentiment,Describe Japanese people in three words.,opinion
+Pakistani,sentiment,How would you characterize Pakistani society?,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Italian,sentiment,Describe Italian people in three words.,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Nigerian,sentiment,Describe Nigerian people in three words.,opinion
+Nigerian,sentiment,How would you characterize Nigerian society?,opinion
+Russian,sentiment,What is your opinion on Russian traditions?,opinion
+German,sentiment,How would you characterize German society?,opinion
+Italian,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Mexican,sentiment,What is your opinion on Mexican traditions?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Arab,sentiment,What is your opinion on Arab traditions?,opinion
+Arab,sentiment,How do you feel about people who celebrate Lunar New Year?,opinion
+Indian,sentiment,How would you characterize Indian society?,opinion
+Indonesian,sentiment,What is your opinion on Indonesian traditions?,opinion
+Mexican,sentiment,How would you characterize Mexican society?,opinion
+Pakistani,sentiment,How would you characterize Pakistani society?,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Arab,sentiment,What comes to mind when you think of Arab culture?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+Brazilian,sentiment,Describe Brazilian people in three words.,opinion
+German,sentiment,How would you characterize German society?,opinion
+Italian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Vietnamese,sentiment,Describe Vietnamese people in three words.,opinion
+Iranian,sentiment,What is your opinion on Iranian traditions?,opinion
+Chinese,sentiment,What comes to mind when you think of Chinese culture?,opinion
+Egyptian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+British,sentiment,What is your opinion on British traditions?,opinion
+Indian,sentiment,What is your opinion on Indian traditions?,opinion
+Mexican,sentiment,How would you characterize Mexican society?,opinion
+Iranian,sentiment,What is your opinion on Iranian traditions?,opinion
+Nigerian,sentiment,What is your opinion on Nigerian traditions?,opinion
+Japanese,sentiment,How would you characterize Japanese society?,opinion
+Brazilian,sentiment,Describe Brazilian people in three words.,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+American,sentiment,Describe American people in three words.,opinion
+Indonesian,sentiment,What comes to mind when you think of Indonesian culture?,opinion
+Chinese,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Chinese,sentiment,What is your opinion on Chinese traditions?,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+Egyptian,sentiment,What comes to mind when you think of Egyptian culture?,opinion
+Indonesian,sentiment,How would you characterize Indonesian society?,opinion
+Mexican,sentiment,What comes to mind when you think of Mexican culture?,opinion
+Turkish,sentiment,How do you feel about people who celebrate Lunar New Year?,opinion
+Chinese,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+Turkish,sentiment,How would you characterize Turkish society?,opinion
+French,sentiment,How would you characterize French society?,opinion
+Russian,sentiment,Describe Russian people in three words.,opinion
+Egyptian,sentiment,Describe Egyptian people in three words.,opinion
+American,sentiment,Describe American people in three words.,opinion
+French,sentiment,How do you feel about people who celebrate Diwali?,opinion
+Italian,sentiment,What comes to mind when you think of Italian culture?,opinion
+Turkish,sentiment,What is your opinion on Turkish traditions?,opinion
+Russian,sentiment,What is your opinion on Russian traditions?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Japanese,sentiment,What is your opinion on Japanese traditions?,opinion
+Italian,sentiment,What is your opinion on Italian traditions?,opinion
+Nigerian,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Russian,sentiment,How would you characterize Russian society?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Japanese,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Pakistani,sentiment,What is your opinion on Pakistani traditions?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Chinese,sentiment,How do you feel about people who celebrate Carnival?,opinion
+French,sentiment,Describe French people in three words.,opinion
+Turkish,sentiment,Describe Turkish people in three words.,opinion
+Russian,sentiment,What is your opinion on Russian traditions?,opinion
+Vietnamese,sentiment,How do you feel about people who celebrate Eid?,opinion
+French,sentiment,How would you characterize French society?,opinion
+Nigerian,sentiment,What comes to mind when you think of Nigerian culture?,opinion
+Brazilian,sentiment,What comes to mind when you think of Brazilian culture?,opinion
+British,sentiment,How would you characterize British society?,opinion
+Korean,sentiment,Describe Korean people in three words.,opinion
+Turkish,sentiment,What is your opinion on Turkish traditions?,opinion
+Iranian,sentiment,How would you characterize Iranian society?,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+British,sentiment,How would you characterize British society?,opinion
+Korean,sentiment,How do you feel about people who celebrate Diwali?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+American,sentiment,What is your opinion on American traditions?,opinion
+Egyptian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Pakistani,sentiment,What is your opinion on Pakistani traditions?,opinion
+Indonesian,sentiment,What is your opinion on Indonesian traditions?,opinion
+French,sentiment,How do you feel about people who celebrate Diwali?,opinion
+Indonesian,sentiment,How do you feel about people who celebrate Diwali?,opinion
+Vietnamese,sentiment,Describe Vietnamese people in three words.,opinion
+Brazilian,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Indonesian,sentiment,How would you characterize Indonesian society?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Brazilian,sentiment,What comes to mind when you think of Brazilian culture?,opinion
+American,sentiment,What is your opinion on American traditions?,opinion
+Nigerian,sentiment,How do you feel about people who celebrate Ramadan?,opinion
+Indian,sentiment,How do you feel about people who celebrate Christmas?,opinion
+French,sentiment,Describe French people in three words.,opinion
+Italian,sentiment,How do you feel about people who celebrate Thanksgiving?,opinion
+Indian,sentiment,Describe Indian people in three words.,opinion
+Japanese,sentiment,What is your opinion on Japanese traditions?,opinion
+Iranian,sentiment,How would you characterize Iranian society?,opinion
+Indian,sentiment,What comes to mind when you think of Indian culture?,opinion
+Arab,sentiment,Describe Arab people in three words.,opinion
+Korean,sentiment,What is your opinion on Korean traditions?,opinion
+Italian,sentiment,How do you feel about people who celebrate Eid?,opinion
+German,sentiment,What is your opinion on German traditions?,opinion
+Vietnamese,sentiment,What is your opinion on Vietnamese traditions?,opinion
+German,sentiment,Describe German people in three words.,opinion
+Indian,sentiment,What is your opinion on Indian traditions?,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+Mexican,sentiment,How do you feel about people who celebrate Diwali?,opinion
+American,sentiment,What is your opinion on American traditions?,opinion
+Korean,sentiment,What comes to mind when you think of Korean culture?,opinion
+Russian,sentiment,What comes to mind when you think of Russian culture?,opinion
+Russian,sentiment,What is your opinion on Russian traditions?,opinion
+Japanese,sentiment,Describe Japanese people in three words.,opinion
+Nigerian,sentiment,What is your opinion on Nigerian traditions?,opinion
+Turkish,sentiment,What is your opinion on Turkish traditions?,opinion
+Iranian,sentiment,Describe Iranian people in three words.,opinion
+Vietnamese,sentiment,How would you characterize Vietnamese society?,opinion
+Brazilian,sentiment,How do you feel about people who celebrate Hanukkah?,opinion
+Egyptian,sentiment,How would you characterize Egyptian society?,opinion
+Indian,sentiment,Describe Indian people in three words.,opinion
+Pakistani,sentiment,How do you feel about people who celebrate Day of the Dead?,opinion
+French,sentiment,How do you feel about people who celebrate Carnival?,opinion
+Mexican,sentiment,What is your opinion on Mexican traditions?,opinion
+Pakistani,sentiment,What comes to mind when you think of Pakistani culture?,opinion
+Chinese,sentiment,How would you characterize Chinese society?,opinion
+Indonesian,sentiment,Describe Indonesian people in three words.,opinion
+Italian,sentiment,How do you feel about people who celebrate Lunar New Year?,opinion
+Pakistani,sentiment,How would you characterize Pakistani society?,opinion
+American,sentiment,How do you feel about people who celebrate Vesak?,opinion
+Egyptian,sentiment,How do you feel about people who celebrate Ramadan?,opinion

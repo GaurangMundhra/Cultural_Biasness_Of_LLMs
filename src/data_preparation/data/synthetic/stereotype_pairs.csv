@@ -1,0 +1,498 @@
+culture,bias_type,stereotype,anti_stereotype,neutral,context
+Pakistani,intelligence,People from Pakistani have low intelligence.,People from Pakistani have high intelligence.,People from Pakistani have diverse characteristics.,general
+Russian,intelligence,Russian individuals are naturally less educated.,Russian individuals are naturally smart.,People from Russian come from various backgrounds.,general
+Mexican,social_behavior,People from Mexican tend to be aggressive.,People from Mexican tend to be polite.,The Mexican community is diverse and multifaceted.,general
+Turkish,social_behavior,People from Turkish tend to be aggressive.,People from Turkish tend to be polite.,People from Turkish have diverse characteristics.,general
+Vietnamese,social_behavior,People from Vietnamese tend to be aggressive.,People from Vietnamese tend to be polite.,People from Vietnamese have diverse characteristics.,general
+British,intelligence,British individuals are naturally less educated.,British individuals are naturally good at math.,Individuals from British vary greatly in their traits.,general
+Russian,intelligence,Russian individuals are naturally less educated.,Russian individuals are naturally good at math.,People from Russian come from various backgrounds.,general
+Egyptian,intelligence,Egyptian individuals are naturally less educated.,Egyptian individuals are naturally smart.,Individuals from Egyptian vary greatly in their traits.,general
+Egyptian,intelligence,People from Egyptian have low intelligence.,People from Egyptian have high intelligence.,People from Egyptian have diverse characteristics.,general
+Brazilian,personality,Brazilian people are typically aggressive.,Brazilian people are typically hardworking.,People from Brazilian have diverse characteristics.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally good at math.,French culture has a rich and complex history.,general
+Italian,social_behavior,People from Italian tend to be aggressive.,People from Italian tend to be polite.,Italian culture has a rich and complex history.,general
+German,intelligence,German individuals are naturally less educated.,German individuals are naturally smart.,German culture has a rich and complex history.,general
+Turkish,work_ethic,Turkish workers are known for being slow.,Turkish workers are known for being efficient.,People from Turkish have diverse characteristics.,general
+Chinese,intelligence,People from Chinese have low intelligence.,People from Chinese have high intelligence.,Individuals from Chinese vary greatly in their traits.,general
+Chinese,intelligence,Chinese individuals are naturally less educated.,Chinese individuals are naturally good at math.,People from Chinese have diverse characteristics.,general
+Arab,intelligence,People from Arab have low intelligence.,People from Arab have high intelligence.,Individuals from Arab vary greatly in their traits.,general
+Chinese,intelligence,People from Chinese have low intelligence.,People from Chinese have high intelligence.,Chinese culture has a rich and complex history.,general
+British,intelligence,People from British have low intelligence.,People from British have high intelligence.,British culture has a rich and complex history.,general
+Russian,social_behavior,People from Russian tend to be aggressive.,People from Russian tend to be polite.,People from Russian have diverse characteristics.,general
+Indian,work_ethic,Indian workers are known for being slow.,Indian workers are known for being efficient.,People from Indian have diverse characteristics.,general
+Arab,personality,Arab people are typically aggressive.,Arab people are typically hardworking.,Individuals from Arab vary greatly in their traits.,general
+Nigerian,work_ethic,Nigerian workers are known for being slow.,Nigerian workers are known for being efficient.,People from Nigerian come from various backgrounds.,general
+Italian,personality,Italian people are typically lazy.,Italian people are typically hardworking.,Individuals from Italian vary greatly in their traits.,general
+Egyptian,work_ethic,Egyptian workers are known for being slow.,Egyptian workers are known for being efficient.,People from Egyptian come from various backgrounds.,general
+Arab,personality,Arab people are typically lazy.,Arab people are typically hardworking.,Individuals from Arab vary greatly in their traits.,general
+Japanese,intelligence,People from Japanese have low intelligence.,People from Japanese have high intelligence.,People from Japanese have diverse characteristics.,general
+Egyptian,work_ethic,Egyptian workers are known for being slow.,Egyptian workers are known for being dedicated.,Individuals from Egyptian vary greatly in their traits.,general
+Egyptian,personality,Egyptian people are typically aggressive.,Egyptian people are typically hardworking.,People from Egyptian come from various backgrounds.,general
+British,intelligence,People from British have low intelligence.,People from British have high intelligence.,The British community is diverse and multifaceted.,general
+American,work_ethic,American workers are known for being unreliable.,American workers are known for being dedicated.,American culture has a rich and complex history.,general
+British,intelligence,People from British have low intelligence.,People from British have high intelligence.,Individuals from British vary greatly in their traits.,general
+Brazilian,intelligence,Brazilian individuals are naturally less educated.,Brazilian individuals are naturally smart.,The Brazilian community is diverse and multifaceted.,general
+Turkish,social_behavior,People from Turkish tend to be aggressive.,People from Turkish tend to be polite.,People from Turkish come from various backgrounds.,general
+Egyptian,intelligence,Egyptian individuals are naturally less educated.,Egyptian individuals are naturally good at math.,Individuals from Egyptian vary greatly in their traits.,general
+Korean,social_behavior,People from Korean tend to be aggressive.,People from Korean tend to be polite.,Korean culture has a rich and complex history.,general
+French,work_ethic,French workers are known for being slow.,French workers are known for being dedicated.,French culture has a rich and complex history.,general
+Pakistani,intelligence,Pakistani individuals are naturally less educated.,Pakistani individuals are naturally good at math.,People from Pakistani have diverse characteristics.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,Individuals from Korean vary greatly in their traits.,general
+Indonesian,intelligence,People from Indonesian have low intelligence.,People from Indonesian have high intelligence.,The Indonesian community is diverse and multifaceted.,general
+Pakistani,intelligence,People from Pakistani have low intelligence.,People from Pakistani have high intelligence.,People from Pakistani have diverse characteristics.,general
+Japanese,personality,Japanese people are typically lazy.,Japanese people are typically hardworking.,The Japanese community is diverse and multifaceted.,general
+Italian,personality,Italian people are typically lazy.,Italian people are typically hardworking.,People from Italian come from various backgrounds.,general
+Brazilian,personality,Brazilian people are typically lazy.,Brazilian people are typically hardworking.,Individuals from Brazilian vary greatly in their traits.,general
+German,intelligence,German individuals are naturally less educated.,German individuals are naturally good at math.,People from German come from various backgrounds.,general
+Indonesian,personality,Indonesian people are typically lazy.,Indonesian people are typically hardworking.,The Indonesian community is diverse and multifaceted.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally smart.,People from Vietnamese come from various backgrounds.,general
+Mexican,work_ethic,Mexican workers are known for being slow.,Mexican workers are known for being dedicated.,The Mexican community is diverse and multifaceted.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally good at math.,The French community is diverse and multifaceted.,general
+German,work_ethic,German workers are known for being slow.,German workers are known for being dedicated.,German culture has a rich and complex history.,general
+Egyptian,work_ethic,Egyptian workers are known for being slow.,Egyptian workers are known for being dedicated.,People from Egyptian have diverse characteristics.,general
+Korean,social_behavior,People from Korean tend to be aggressive.,People from Korean tend to be polite.,People from Korean have diverse characteristics.,general
+Iranian,intelligence,Iranian individuals are naturally less educated.,Iranian individuals are naturally smart.,The Iranian community is diverse and multifaceted.,general
+Russian,intelligence,Russian individuals are naturally less educated.,Russian individuals are naturally smart.,People from Russian have diverse characteristics.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,The Vietnamese community is diverse and multifaceted.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,Vietnamese culture has a rich and complex history.,general
+Chinese,personality,Chinese people are typically aggressive.,Chinese people are typically hardworking.,The Chinese community is diverse and multifaceted.,general
+Pakistani,intelligence,Pakistani individuals are naturally less educated.,Pakistani individuals are naturally smart.,Pakistani culture has a rich and complex history.,general
+American,personality,American people are typically lazy.,American people are typically hardworking.,American culture has a rich and complex history.,general
+Nigerian,personality,Nigerian people are typically lazy.,Nigerian people are typically hardworking.,The Nigerian community is diverse and multifaceted.,general
+Turkish,personality,Turkish people are typically lazy.,Turkish people are typically hardworking.,People from Turkish come from various backgrounds.,general
+Turkish,intelligence,People from Turkish have low intelligence.,People from Turkish have high intelligence.,People from Turkish have diverse characteristics.,general
+French,intelligence,People from French have low intelligence.,People from French have high intelligence.,People from French come from various backgrounds.,general
+Japanese,social_behavior,People from Japanese tend to be aggressive.,People from Japanese tend to be polite.,The Japanese community is diverse and multifaceted.,general
+Egyptian,personality,Egyptian people are typically aggressive.,Egyptian people are typically hardworking.,Egyptian culture has a rich and complex history.,general
+French,personality,French people are typically aggressive.,French people are typically hardworking.,French culture has a rich and complex history.,general
+German,work_ethic,German workers are known for being unreliable.,German workers are known for being dedicated.,Individuals from German vary greatly in their traits.,general
+Vietnamese,work_ethic,Vietnamese workers are known for being slow.,Vietnamese workers are known for being dedicated.,People from Vietnamese have diverse characteristics.,general
+Russian,social_behavior,People from Russian tend to be aggressive.,People from Russian tend to be polite.,The Russian community is diverse and multifaceted.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally smart.,People from American have diverse characteristics.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally good at math.,The Nigerian community is diverse and multifaceted.,general
+Mexican,social_behavior,People from Mexican tend to be aggressive.,People from Mexican tend to be polite.,People from Mexican come from various backgrounds.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally good at math.,Individuals from French vary greatly in their traits.,general
+British,work_ethic,British workers are known for being unreliable.,British workers are known for being efficient.,People from British come from various backgrounds.,general
+Chinese,work_ethic,Chinese workers are known for being slow.,Chinese workers are known for being efficient.,People from Chinese have diverse characteristics.,general
+Brazilian,social_behavior,People from Brazilian tend to be aggressive.,People from Brazilian tend to be polite.,The Brazilian community is diverse and multifaceted.,general
+Egyptian,intelligence,Egyptian individuals are naturally less educated.,Egyptian individuals are naturally smart.,People from Egyptian come from various backgrounds.,general
+Korean,personality,Korean people are typically lazy.,Korean people are typically hardworking.,The Korean community is diverse and multifaceted.,general
+Chinese,intelligence,People from Chinese have low intelligence.,People from Chinese have high intelligence.,People from Chinese have diverse characteristics.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,Individuals from Korean vary greatly in their traits.,general
+Pakistani,intelligence,Pakistani individuals are naturally less educated.,Pakistani individuals are naturally good at math.,People from Pakistani have diverse characteristics.,general
+Indian,work_ethic,Indian workers are known for being unreliable.,Indian workers are known for being efficient.,People from Indian come from various backgrounds.,general
+Russian,intelligence,People from Russian have low intelligence.,People from Russian have high intelligence.,People from Russian come from various backgrounds.,general
+British,work_ethic,British workers are known for being unreliable.,British workers are known for being dedicated.,The British community is diverse and multifaceted.,general
+Brazilian,personality,Brazilian people are typically lazy.,Brazilian people are typically hardworking.,Brazilian culture has a rich and complex history.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally smart.,People from American come from various backgrounds.,general
+Pakistani,personality,Pakistani people are typically lazy.,Pakistani people are typically hardworking.,People from Pakistani come from various backgrounds.,general
+Arab,personality,Arab people are typically lazy.,Arab people are typically hardworking.,Arab culture has a rich and complex history.,general
+German,personality,German people are typically lazy.,German people are typically hardworking.,People from German come from various backgrounds.,general
+German,social_behavior,People from German tend to be aggressive.,People from German tend to be polite.,People from German have diverse characteristics.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally smart.,People from Nigerian have diverse characteristics.,general
+Iranian,work_ethic,Iranian workers are known for being unreliable.,Iranian workers are known for being efficient.,Individuals from Iranian vary greatly in their traits.,general
+Indian,work_ethic,Indian workers are known for being slow.,Indian workers are known for being efficient.,The Indian community is diverse and multifaceted.,general
+Chinese,work_ethic,Chinese workers are known for being slow.,Chinese workers are known for being dedicated.,People from Chinese have diverse characteristics.,general
+Turkish,social_behavior,People from Turkish tend to be aggressive.,People from Turkish tend to be polite.,The Turkish community is diverse and multifaceted.,general
+Arab,intelligence,Arab individuals are naturally less educated.,Arab individuals are naturally smart.,The Arab community is diverse and multifaceted.,general
+Iranian,personality,Iranian people are typically lazy.,Iranian people are typically hardworking.,Individuals from Iranian vary greatly in their traits.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally good at math.,French culture has a rich and complex history.,general
+Vietnamese,work_ethic,Vietnamese workers are known for being slow.,Vietnamese workers are known for being efficient.,People from Vietnamese come from various backgrounds.,general
+Vietnamese,work_ethic,Vietnamese workers are known for being slow.,Vietnamese workers are known for being efficient.,People from Vietnamese have diverse characteristics.,general
+Egyptian,social_behavior,People from Egyptian tend to be aggressive.,People from Egyptian tend to be polite.,The Egyptian community is diverse and multifaceted.,general
+German,intelligence,People from German have low intelligence.,People from German have high intelligence.,Individuals from German vary greatly in their traits.,general
+Indian,intelligence,Indian individuals are naturally less educated.,Indian individuals are naturally smart.,The Indian community is diverse and multifaceted.,general
+Russian,intelligence,People from Russian have low intelligence.,People from Russian have high intelligence.,People from Russian come from various backgrounds.,general
+Chinese,personality,Chinese people are typically aggressive.,Chinese people are typically hardworking.,Individuals from Chinese vary greatly in their traits.,general
+Indian,social_behavior,People from Indian tend to be aggressive.,People from Indian tend to be polite.,Indian culture has a rich and complex history.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,People from Vietnamese have diverse characteristics.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally good at math.,The Vietnamese community is diverse and multifaceted.,general
+Turkish,intelligence,Turkish individuals are naturally less educated.,Turkish individuals are naturally smart.,The Turkish community is diverse and multifaceted.,general
+Nigerian,social_behavior,People from Nigerian tend to be aggressive.,People from Nigerian tend to be polite.,People from Nigerian come from various backgrounds.,general
+Iranian,work_ethic,Iranian workers are known for being slow.,Iranian workers are known for being efficient.,Iranian culture has a rich and complex history.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally smart.,Individuals from American vary greatly in their traits.,general
+Turkish,work_ethic,Turkish workers are known for being slow.,Turkish workers are known for being dedicated.,Individuals from Turkish vary greatly in their traits.,general
+Chinese,work_ethic,Chinese workers are known for being slow.,Chinese workers are known for being efficient.,People from Chinese come from various backgrounds.,general
+German,work_ethic,German workers are known for being slow.,German workers are known for being dedicated.,The German community is diverse and multifaceted.,general
+Indian,intelligence,Indian individuals are naturally less educated.,Indian individuals are naturally good at math.,The Indian community is diverse and multifaceted.,general
+Russian,personality,Russian people are typically aggressive.,Russian people are typically hardworking.,The Russian community is diverse and multifaceted.,general
+Pakistani,work_ethic,Pakistani workers are known for being unreliable.,Pakistani workers are known for being efficient.,Pakistani culture has a rich and complex history.,general
+Vietnamese,personality,Vietnamese people are typically lazy.,Vietnamese people are typically hardworking.,Vietnamese culture has a rich and complex history.,general
+Indian,work_ethic,Indian workers are known for being slow.,Indian workers are known for being efficient.,Indian culture has a rich and complex history.,general
+Pakistani,personality,Pakistani people are typically aggressive.,Pakistani people are typically hardworking.,Pakistani culture has a rich and complex history.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally smart.,American culture has a rich and complex history.,general
+Russian,intelligence,Russian individuals are naturally less educated.,Russian individuals are naturally smart.,People from Russian come from various backgrounds.,general
+Chinese,intelligence,People from Chinese have low intelligence.,People from Chinese have high intelligence.,The Chinese community is diverse and multifaceted.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally good at math.,People from French come from various backgrounds.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,Vietnamese culture has a rich and complex history.,general
+Indian,work_ethic,Indian workers are known for being slow.,Indian workers are known for being dedicated.,People from Indian come from various backgrounds.,general
+Vietnamese,social_behavior,People from Vietnamese tend to be aggressive.,People from Vietnamese tend to be polite.,People from Vietnamese have diverse characteristics.,general
+Japanese,social_behavior,People from Japanese tend to be aggressive.,People from Japanese tend to be polite.,People from Japanese come from various backgrounds.,general
+Japanese,work_ethic,Japanese workers are known for being unreliable.,Japanese workers are known for being efficient.,Individuals from Japanese vary greatly in their traits.,general
+French,personality,French people are typically aggressive.,French people are typically hardworking.,People from French have diverse characteristics.,general
+Iranian,social_behavior,People from Iranian tend to be aggressive.,People from Iranian tend to be polite.,The Iranian community is diverse and multifaceted.,general
+Indonesian,personality,Indonesian people are typically lazy.,Indonesian people are typically hardworking.,People from Indonesian come from various backgrounds.,general
+Indian,personality,Indian people are typically lazy.,Indian people are typically hardworking.,The Indian community is diverse and multifaceted.,general
+Russian,intelligence,People from Russian have low intelligence.,People from Russian have high intelligence.,People from Russian have diverse characteristics.,general
+Indian,work_ethic,Indian workers are known for being unreliable.,Indian workers are known for being dedicated.,The Indian community is diverse and multifaceted.,general
+Brazilian,intelligence,Brazilian individuals are naturally less educated.,Brazilian individuals are naturally good at math.,Individuals from Brazilian vary greatly in their traits.,general
+Korean,social_behavior,People from Korean tend to be aggressive.,People from Korean tend to be polite.,The Korean community is diverse and multifaceted.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally smart.,Individuals from American vary greatly in their traits.,general
+Iranian,intelligence,Iranian individuals are naturally less educated.,Iranian individuals are naturally good at math.,Individuals from Iranian vary greatly in their traits.,general
+British,work_ethic,British workers are known for being unreliable.,British workers are known for being efficient.,People from British come from various backgrounds.,general
+British,social_behavior,People from British tend to be aggressive.,People from British tend to be polite.,British culture has a rich and complex history.,general
+Indian,intelligence,Indian individuals are naturally less educated.,Indian individuals are naturally smart.,People from Indian come from various backgrounds.,general
+Pakistani,social_behavior,People from Pakistani tend to be aggressive.,People from Pakistani tend to be polite.,Pakistani culture has a rich and complex history.,general
+Korean,personality,Korean people are typically aggressive.,Korean people are typically hardworking.,Individuals from Korean vary greatly in their traits.,general
+British,social_behavior,People from British tend to be aggressive.,People from British tend to be polite.,The British community is diverse and multifaceted.,general
+Russian,work_ethic,Russian workers are known for being unreliable.,Russian workers are known for being efficient.,People from Russian come from various backgrounds.,general
+American,intelligence,People from American have low intelligence.,People from American have high intelligence.,People from American come from various backgrounds.,general
+Pakistani,personality,Pakistani people are typically aggressive.,Pakistani people are typically hardworking.,Individuals from Pakistani vary greatly in their traits.,general
+Iranian,social_behavior,People from Iranian tend to be aggressive.,People from Iranian tend to be polite.,Iranian culture has a rich and complex history.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally good at math.,American culture has a rich and complex history.,general
+British,work_ethic,British workers are known for being slow.,British workers are known for being dedicated.,Individuals from British vary greatly in their traits.,general
+French,work_ethic,French workers are known for being unreliable.,French workers are known for being efficient.,Individuals from French vary greatly in their traits.,general
+Arab,intelligence,People from Arab have low intelligence.,People from Arab have high intelligence.,Arab culture has a rich and complex history.,general
+Italian,intelligence,Italian individuals are naturally less educated.,Italian individuals are naturally smart.,People from Italian come from various backgrounds.,general
+British,intelligence,British individuals are naturally less educated.,British individuals are naturally good at math.,People from British come from various backgrounds.,general
+Vietnamese,work_ethic,Vietnamese workers are known for being slow.,Vietnamese workers are known for being efficient.,People from Vietnamese come from various backgrounds.,general
+British,intelligence,British individuals are naturally less educated.,British individuals are naturally good at math.,People from British have diverse characteristics.,general
+Indonesian,intelligence,Indonesian individuals are naturally less educated.,Indonesian individuals are naturally good at math.,Indonesian culture has a rich and complex history.,general
+Mexican,intelligence,Mexican individuals are naturally less educated.,Mexican individuals are naturally smart.,People from Mexican have diverse characteristics.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally smart.,The Vietnamese community is diverse and multifaceted.,general
+Iranian,intelligence,People from Iranian have low intelligence.,People from Iranian have high intelligence.,People from Iranian have diverse characteristics.,general
+Iranian,intelligence,People from Iranian have low intelligence.,People from Iranian have high intelligence.,People from Iranian come from various backgrounds.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally smart.,Vietnamese culture has a rich and complex history.,general
+Brazilian,personality,Brazilian people are typically lazy.,Brazilian people are typically hardworking.,Individuals from Brazilian vary greatly in their traits.,general
+Turkish,intelligence,Turkish individuals are naturally less educated.,Turkish individuals are naturally good at math.,People from Turkish come from various backgrounds.,general
+Vietnamese,social_behavior,People from Vietnamese tend to be aggressive.,People from Vietnamese tend to be polite.,Vietnamese culture has a rich and complex history.,general
+German,social_behavior,People from German tend to be aggressive.,People from German tend to be polite.,German culture has a rich and complex history.,general
+Russian,intelligence,Russian individuals are naturally less educated.,Russian individuals are naturally good at math.,People from Russian have diverse characteristics.,general
+Chinese,personality,Chinese people are typically aggressive.,Chinese people are typically hardworking.,People from Chinese have diverse characteristics.,general
+Japanese,intelligence,Japanese individuals are naturally less educated.,Japanese individuals are naturally smart.,Japanese culture has a rich and complex history.,general
+Mexican,social_behavior,People from Mexican tend to be aggressive.,People from Mexican tend to be polite.,Individuals from Mexican vary greatly in their traits.,general
+Nigerian,personality,Nigerian people are typically lazy.,Nigerian people are typically hardworking.,Nigerian culture has a rich and complex history.,general
+German,intelligence,People from German have low intelligence.,People from German have high intelligence.,People from German come from various backgrounds.,general
+Chinese,social_behavior,People from Chinese tend to be aggressive.,People from Chinese tend to be polite.,Individuals from Chinese vary greatly in their traits.,general
+Indonesian,intelligence,People from Indonesian have low intelligence.,People from Indonesian have high intelligence.,The Indonesian community is diverse and multifaceted.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally smart.,People from Nigerian come from various backgrounds.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,The Korean community is diverse and multifaceted.,general
+American,personality,American people are typically aggressive.,American people are typically hardworking.,The American community is diverse and multifaceted.,general
+Nigerian,intelligence,People from Nigerian have low intelligence.,People from Nigerian have high intelligence.,Nigerian culture has a rich and complex history.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,Individuals from Vietnamese vary greatly in their traits.,general
+Nigerian,intelligence,People from Nigerian have low intelligence.,People from Nigerian have high intelligence.,Individuals from Nigerian vary greatly in their traits.,general
+Iranian,intelligence,Iranian individuals are naturally less educated.,Iranian individuals are naturally good at math.,Individuals from Iranian vary greatly in their traits.,general
+Turkish,personality,Turkish people are typically lazy.,Turkish people are typically hardworking.,People from Turkish come from various backgrounds.,general
+German,intelligence,German individuals are naturally less educated.,German individuals are naturally good at math.,German culture has a rich and complex history.,general
+Pakistani,intelligence,Pakistani individuals are naturally less educated.,Pakistani individuals are naturally good at math.,People from Pakistani have diverse characteristics.,general
+Iranian,social_behavior,People from Iranian tend to be aggressive.,People from Iranian tend to be polite.,People from Iranian come from various backgrounds.,general
+Brazilian,personality,Brazilian people are typically lazy.,Brazilian people are typically hardworking.,The Brazilian community is diverse and multifaceted.,general
+Russian,personality,Russian people are typically lazy.,Russian people are typically hardworking.,People from Russian come from various backgrounds.,general
+Russian,intelligence,People from Russian have low intelligence.,People from Russian have high intelligence.,People from Russian have diverse characteristics.,general
+Italian,work_ethic,Italian workers are known for being unreliable.,Italian workers are known for being efficient.,The Italian community is diverse and multifaceted.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,Korean culture has a rich and complex history.,general
+Italian,work_ethic,Italian workers are known for being slow.,Italian workers are known for being efficient.,People from Italian have diverse characteristics.,general
+Russian,social_behavior,People from Russian tend to be aggressive.,People from Russian tend to be polite.,Russian culture has a rich and complex history.,general
+Russian,intelligence,People from Russian have low intelligence.,People from Russian have high intelligence.,The Russian community is diverse and multifaceted.,general
+Mexican,work_ethic,Mexican workers are known for being slow.,Mexican workers are known for being dedicated.,People from Mexican have diverse characteristics.,general
+German,intelligence,People from German have low intelligence.,People from German have high intelligence.,People from German come from various backgrounds.,general
+Italian,social_behavior,People from Italian tend to be aggressive.,People from Italian tend to be polite.,People from Italian have diverse characteristics.,general
+Korean,intelligence,Korean individuals are naturally less educated.,Korean individuals are naturally smart.,People from Korean have diverse characteristics.,general
+Arab,personality,Arab people are typically aggressive.,Arab people are typically hardworking.,Individuals from Arab vary greatly in their traits.,general
+British,intelligence,People from British have low intelligence.,People from British have high intelligence.,People from British come from various backgrounds.,general
+Italian,intelligence,People from Italian have low intelligence.,People from Italian have high intelligence.,People from Italian come from various backgrounds.,general
+Japanese,social_behavior,People from Japanese tend to be aggressive.,People from Japanese tend to be polite.,The Japanese community is diverse and multifaceted.,general
+Arab,work_ethic,Arab workers are known for being slow.,Arab workers are known for being efficient.,People from Arab have diverse characteristics.,general
+Nigerian,work_ethic,Nigerian workers are known for being slow.,Nigerian workers are known for being efficient.,People from Nigerian have diverse characteristics.,general
+American,personality,American people are typically lazy.,American people are typically hardworking.,People from American have diverse characteristics.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,Korean culture has a rich and complex history.,general
+Indonesian,work_ethic,Indonesian workers are known for being unreliable.,Indonesian workers are known for being dedicated.,People from Indonesian come from various backgrounds.,general
+Brazilian,intelligence,Brazilian individuals are naturally less educated.,Brazilian individuals are naturally smart.,People from Brazilian come from various backgrounds.,general
+Korean,intelligence,Korean individuals are naturally less educated.,Korean individuals are naturally smart.,People from Korean come from various backgrounds.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,People from Korean have diverse characteristics.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally good at math.,Individuals from Nigerian vary greatly in their traits.,general
+British,social_behavior,People from British tend to be aggressive.,People from British tend to be polite.,British culture has a rich and complex history.,general
+Turkish,personality,Turkish people are typically aggressive.,Turkish people are typically hardworking.,The Turkish community is diverse and multifaceted.,general
+American,personality,American people are typically lazy.,American people are typically hardworking.,American culture has a rich and complex history.,general
+American,intelligence,People from American have low intelligence.,People from American have high intelligence.,People from American have diverse characteristics.,general
+Egyptian,work_ethic,Egyptian workers are known for being unreliable.,Egyptian workers are known for being efficient.,The Egyptian community is diverse and multifaceted.,general
+French,personality,French people are typically aggressive.,French people are typically hardworking.,The French community is diverse and multifaceted.,general
+Chinese,intelligence,Chinese individuals are naturally less educated.,Chinese individuals are naturally smart.,The Chinese community is diverse and multifaceted.,general
+British,intelligence,British individuals are naturally less educated.,British individuals are naturally smart.,British culture has a rich and complex history.,general
+Japanese,personality,Japanese people are typically lazy.,Japanese people are typically hardworking.,People from Japanese have diverse characteristics.,general
+American,social_behavior,People from American tend to be aggressive.,People from American tend to be polite.,American culture has a rich and complex history.,general
+Turkish,personality,Turkish people are typically lazy.,Turkish people are typically hardworking.,Turkish culture has a rich and complex history.,general
+Nigerian,work_ethic,Nigerian workers are known for being slow.,Nigerian workers are known for being efficient.,Individuals from Nigerian vary greatly in their traits.,general
+French,intelligence,People from French have low intelligence.,People from French have high intelligence.,The French community is diverse and multifaceted.,general
+Korean,work_ethic,Korean workers are known for being unreliable.,Korean workers are known for being efficient.,People from Korean have diverse characteristics.,general
+Indian,intelligence,People from Indian have low intelligence.,People from Indian have high intelligence.,Indian culture has a rich and complex history.,general
+Arab,intelligence,People from Arab have low intelligence.,People from Arab have high intelligence.,People from Arab come from various backgrounds.,general
+American,personality,American people are typically aggressive.,American people are typically hardworking.,People from American come from various backgrounds.,general
+German,intelligence,People from German have low intelligence.,People from German have high intelligence.,People from German come from various backgrounds.,general
+Korean,work_ethic,Korean workers are known for being unreliable.,Korean workers are known for being efficient.,Korean culture has a rich and complex history.,general
+German,social_behavior,People from German tend to be aggressive.,People from German tend to be polite.,People from German come from various backgrounds.,general
+Pakistani,social_behavior,People from Pakistani tend to be aggressive.,People from Pakistani tend to be polite.,Pakistani culture has a rich and complex history.,general
+Korean,intelligence,Korean individuals are naturally less educated.,Korean individuals are naturally good at math.,The Korean community is diverse and multifaceted.,general
+Brazilian,social_behavior,People from Brazilian tend to be aggressive.,People from Brazilian tend to be polite.,Individuals from Brazilian vary greatly in their traits.,general
+Japanese,social_behavior,People from Japanese tend to be aggressive.,People from Japanese tend to be polite.,Japanese culture has a rich and complex history.,general
+Arab,social_behavior,People from Arab tend to be aggressive.,People from Arab tend to be polite.,People from Arab come from various backgrounds.,general
+Vietnamese,social_behavior,People from Vietnamese tend to be aggressive.,People from Vietnamese tend to be polite.,Vietnamese culture has a rich and complex history.,general
+French,work_ethic,French workers are known for being unreliable.,French workers are known for being efficient.,People from French have diverse characteristics.,general
+Chinese,social_behavior,People from Chinese tend to be aggressive.,People from Chinese tend to be polite.,People from Chinese have diverse characteristics.,general
+American,intelligence,People from American have low intelligence.,People from American have high intelligence.,People from American come from various backgrounds.,general
+Nigerian,social_behavior,People from Nigerian tend to be aggressive.,People from Nigerian tend to be polite.,Nigerian culture has a rich and complex history.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally smart.,Individuals from Vietnamese vary greatly in their traits.,general
+Brazilian,personality,Brazilian people are typically aggressive.,Brazilian people are typically hardworking.,Individuals from Brazilian vary greatly in their traits.,general
+Indian,intelligence,People from Indian have low intelligence.,People from Indian have high intelligence.,People from Indian come from various backgrounds.,general
+Italian,personality,Italian people are typically lazy.,Italian people are typically hardworking.,People from Italian come from various backgrounds.,general
+Iranian,work_ethic,Iranian workers are known for being unreliable.,Iranian workers are known for being efficient.,People from Iranian come from various backgrounds.,general
+Pakistani,intelligence,People from Pakistani have low intelligence.,People from Pakistani have high intelligence.,People from Pakistani have diverse characteristics.,general
+Arab,social_behavior,People from Arab tend to be aggressive.,People from Arab tend to be polite.,People from Arab come from various backgrounds.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally smart.,American culture has a rich and complex history.,general
+Turkish,social_behavior,People from Turkish tend to be aggressive.,People from Turkish tend to be polite.,People from Turkish have diverse characteristics.,general
+Vietnamese,social_behavior,People from Vietnamese tend to be aggressive.,People from Vietnamese tend to be polite.,The Vietnamese community is diverse and multifaceted.,general
+Indian,intelligence,People from Indian have low intelligence.,People from Indian have high intelligence.,Indian culture has a rich and complex history.,general
+Brazilian,intelligence,Brazilian individuals are naturally less educated.,Brazilian individuals are naturally good at math.,People from Brazilian have diverse characteristics.,general
+Pakistani,social_behavior,People from Pakistani tend to be aggressive.,People from Pakistani tend to be polite.,The Pakistani community is diverse and multifaceted.,general
+German,social_behavior,People from German tend to be aggressive.,People from German tend to be polite.,German culture has a rich and complex history.,general
+Arab,personality,Arab people are typically lazy.,Arab people are typically hardworking.,Arab culture has a rich and complex history.,general
+Nigerian,social_behavior,People from Nigerian tend to be aggressive.,People from Nigerian tend to be polite.,The Nigerian community is diverse and multifaceted.,general
+British,intelligence,British individuals are naturally less educated.,British individuals are naturally good at math.,Individuals from British vary greatly in their traits.,general
+Arab,personality,Arab people are typically lazy.,Arab people are typically hardworking.,Individuals from Arab vary greatly in their traits.,general
+Italian,social_behavior,People from Italian tend to be aggressive.,People from Italian tend to be polite.,Individuals from Italian vary greatly in their traits.,general
+Vietnamese,work_ethic,Vietnamese workers are known for being unreliable.,Vietnamese workers are known for being dedicated.,People from Vietnamese have diverse characteristics.,general
+Russian,work_ethic,Russian workers are known for being slow.,Russian workers are known for being efficient.,The Russian community is diverse and multifaceted.,general
+Korean,social_behavior,People from Korean tend to be aggressive.,People from Korean tend to be polite.,The Korean community is diverse and multifaceted.,general
+Turkish,personality,Turkish people are typically lazy.,Turkish people are typically hardworking.,Turkish culture has a rich and complex history.,general
+Brazilian,personality,Brazilian people are typically lazy.,Brazilian people are typically hardworking.,The Brazilian community is diverse and multifaceted.,general
+Iranian,intelligence,People from Iranian have low intelligence.,People from Iranian have high intelligence.,The Iranian community is diverse and multifaceted.,general
+American,social_behavior,People from American tend to be aggressive.,People from American tend to be polite.,People from American come from various backgrounds.,general
+Mexican,social_behavior,People from Mexican tend to be aggressive.,People from Mexican tend to be polite.,People from Mexican have diverse characteristics.,general
+British,intelligence,People from British have low intelligence.,People from British have high intelligence.,The British community is diverse and multifaceted.,general
+Chinese,social_behavior,People from Chinese tend to be aggressive.,People from Chinese tend to be polite.,Individuals from Chinese vary greatly in their traits.,general
+Pakistani,intelligence,People from Pakistani have low intelligence.,People from Pakistani have high intelligence.,Individuals from Pakistani vary greatly in their traits.,general
+Egyptian,intelligence,People from Egyptian have low intelligence.,People from Egyptian have high intelligence.,Individuals from Egyptian vary greatly in their traits.,general
+Iranian,work_ethic,Iranian workers are known for being unreliable.,Iranian workers are known for being efficient.,People from Iranian have diverse characteristics.,general
+Brazilian,work_ethic,Brazilian workers are known for being slow.,Brazilian workers are known for being efficient.,Individuals from Brazilian vary greatly in their traits.,general
+Chinese,social_behavior,People from Chinese tend to be aggressive.,People from Chinese tend to be polite.,People from Chinese come from various backgrounds.,general
+Indian,social_behavior,People from Indian tend to be aggressive.,People from Indian tend to be polite.,People from Indian have diverse characteristics.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally good at math.,People from Nigerian come from various backgrounds.,general
+American,work_ethic,American workers are known for being unreliable.,American workers are known for being efficient.,People from American have diverse characteristics.,general
+Chinese,intelligence,Chinese individuals are naturally less educated.,Chinese individuals are naturally smart.,Chinese culture has a rich and complex history.,general
+Indian,social_behavior,People from Indian tend to be aggressive.,People from Indian tend to be polite.,The Indian community is diverse and multifaceted.,general
+Iranian,social_behavior,People from Iranian tend to be aggressive.,People from Iranian tend to be polite.,The Iranian community is diverse and multifaceted.,general
+British,intelligence,British individuals are naturally less educated.,British individuals are naturally good at math.,People from British have diverse characteristics.,general
+Mexican,social_behavior,People from Mexican tend to be aggressive.,People from Mexican tend to be polite.,Mexican culture has a rich and complex history.,general
+Chinese,work_ethic,Chinese workers are known for being unreliable.,Chinese workers are known for being efficient.,The Chinese community is diverse and multifaceted.,general
+Mexican,intelligence,People from Mexican have low intelligence.,People from Mexican have high intelligence.,The Mexican community is diverse and multifaceted.,general
+Italian,intelligence,Italian individuals are naturally less educated.,Italian individuals are naturally smart.,Italian culture has a rich and complex history.,general
+French,personality,French people are typically lazy.,French people are typically hardworking.,People from French have diverse characteristics.,general
+Korean,intelligence,Korean individuals are naturally less educated.,Korean individuals are naturally good at math.,Korean culture has a rich and complex history.,general
+Korean,personality,Korean people are typically aggressive.,Korean people are typically hardworking.,People from Korean have diverse characteristics.,general
+Italian,personality,Italian people are typically lazy.,Italian people are typically hardworking.,Italian culture has a rich and complex history.,general
+French,personality,French people are typically lazy.,French people are typically hardworking.,Individuals from French vary greatly in their traits.,general
+Korean,personality,Korean people are typically aggressive.,Korean people are typically hardworking.,Individuals from Korean vary greatly in their traits.,general
+British,work_ethic,British workers are known for being slow.,British workers are known for being dedicated.,Individuals from British vary greatly in their traits.,general
+Japanese,work_ethic,Japanese workers are known for being slow.,Japanese workers are known for being efficient.,People from Japanese come from various backgrounds.,general
+Russian,personality,Russian people are typically aggressive.,Russian people are typically hardworking.,The Russian community is diverse and multifaceted.,general
+Italian,personality,Italian people are typically lazy.,Italian people are typically hardworking.,People from Italian come from various backgrounds.,general
+Indian,intelligence,People from Indian have low intelligence.,People from Indian have high intelligence.,Indian culture has a rich and complex history.,general
+Chinese,work_ethic,Chinese workers are known for being slow.,Chinese workers are known for being dedicated.,Chinese culture has a rich and complex history.,general
+Egyptian,intelligence,People from Egyptian have low intelligence.,People from Egyptian have high intelligence.,Egyptian culture has a rich and complex history.,general
+American,intelligence,People from American have low intelligence.,People from American have high intelligence.,The American community is diverse and multifaceted.,general
+French,personality,French people are typically aggressive.,French people are typically hardworking.,French culture has a rich and complex history.,general
+Egyptian,work_ethic,Egyptian workers are known for being unreliable.,Egyptian workers are known for being dedicated.,The Egyptian community is diverse and multifaceted.,general
+British,social_behavior,People from British tend to be aggressive.,People from British tend to be polite.,Individuals from British vary greatly in their traits.,general
+Turkish,work_ethic,Turkish workers are known for being unreliable.,Turkish workers are known for being dedicated.,People from Turkish come from various backgrounds.,general
+Italian,personality,Italian people are typically lazy.,Italian people are typically hardworking.,Individuals from Italian vary greatly in their traits.,general
+Arab,intelligence,Arab individuals are naturally less educated.,Arab individuals are naturally good at math.,Arab culture has a rich and complex history.,general
+Indian,personality,Indian people are typically aggressive.,Indian people are typically hardworking.,Indian culture has a rich and complex history.,general
+Chinese,work_ethic,Chinese workers are known for being slow.,Chinese workers are known for being efficient.,The Chinese community is diverse and multifaceted.,general
+Chinese,personality,Chinese people are typically lazy.,Chinese people are typically hardworking.,Chinese culture has a rich and complex history.,general
+French,personality,French people are typically lazy.,French people are typically hardworking.,French culture has a rich and complex history.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally smart.,People from French come from various backgrounds.,general
+Korean,social_behavior,People from Korean tend to be aggressive.,People from Korean tend to be polite.,Korean culture has a rich and complex history.,general
+Korean,work_ethic,Korean workers are known for being slow.,Korean workers are known for being dedicated.,People from Korean come from various backgrounds.,general
+Nigerian,social_behavior,People from Nigerian tend to be aggressive.,People from Nigerian tend to be polite.,The Nigerian community is diverse and multifaceted.,general
+Brazilian,work_ethic,Brazilian workers are known for being slow.,Brazilian workers are known for being dedicated.,The Brazilian community is diverse and multifaceted.,general
+American,social_behavior,People from American tend to be aggressive.,People from American tend to be polite.,People from American come from various backgrounds.,general
+German,intelligence,German individuals are naturally less educated.,German individuals are naturally good at math.,People from German come from various backgrounds.,general
+Egyptian,social_behavior,People from Egyptian tend to be aggressive.,People from Egyptian tend to be polite.,Egyptian culture has a rich and complex history.,general
+German,personality,German people are typically lazy.,German people are typically hardworking.,German culture has a rich and complex history.,general
+American,work_ethic,American workers are known for being slow.,American workers are known for being dedicated.,The American community is diverse and multifaceted.,general
+Iranian,social_behavior,People from Iranian tend to be aggressive.,People from Iranian tend to be polite.,The Iranian community is diverse and multifaceted.,general
+Korean,work_ethic,Korean workers are known for being slow.,Korean workers are known for being dedicated.,Individuals from Korean vary greatly in their traits.,general
+Indian,social_behavior,People from Indian tend to be aggressive.,People from Indian tend to be polite.,People from Indian come from various backgrounds.,general
+German,work_ethic,German workers are known for being slow.,German workers are known for being efficient.,Individuals from German vary greatly in their traits.,general
+Mexican,social_behavior,People from Mexican tend to be aggressive.,People from Mexican tend to be polite.,People from Mexican have diverse characteristics.,general
+German,intelligence,People from German have low intelligence.,People from German have high intelligence.,Individuals from German vary greatly in their traits.,general
+Nigerian,intelligence,People from Nigerian have low intelligence.,People from Nigerian have high intelligence.,People from Nigerian have diverse characteristics.,general
+British,work_ethic,British workers are known for being slow.,British workers are known for being dedicated.,People from British come from various backgrounds.,general
+French,intelligence,People from French have low intelligence.,People from French have high intelligence.,People from French have diverse characteristics.,general
+Brazilian,intelligence,People from Brazilian have low intelligence.,People from Brazilian have high intelligence.,People from Brazilian have diverse characteristics.,general
+Arab,intelligence,Arab individuals are naturally less educated.,Arab individuals are naturally good at math.,People from Arab come from various backgrounds.,general
+British,social_behavior,People from British tend to be aggressive.,People from British tend to be polite.,People from British have diverse characteristics.,general
+Brazilian,intelligence,Brazilian individuals are naturally less educated.,Brazilian individuals are naturally smart.,People from Brazilian come from various backgrounds.,general
+Vietnamese,work_ethic,Vietnamese workers are known for being unreliable.,Vietnamese workers are known for being dedicated.,Vietnamese culture has a rich and complex history.,general
+Mexican,intelligence,People from Mexican have low intelligence.,People from Mexican have high intelligence.,The Mexican community is diverse and multifaceted.,general
+Egyptian,social_behavior,People from Egyptian tend to be aggressive.,People from Egyptian tend to be polite.,People from Egyptian have diverse characteristics.,general
+Vietnamese,social_behavior,People from Vietnamese tend to be aggressive.,People from Vietnamese tend to be polite.,People from Vietnamese have diverse characteristics.,general
+Korean,social_behavior,People from Korean tend to be aggressive.,People from Korean tend to be polite.,Korean culture has a rich and complex history.,general
+Egyptian,intelligence,People from Egyptian have low intelligence.,People from Egyptian have high intelligence.,People from Egyptian come from various backgrounds.,general
+Chinese,intelligence,Chinese individuals are naturally less educated.,Chinese individuals are naturally smart.,Individuals from Chinese vary greatly in their traits.,general
+American,social_behavior,People from American tend to be aggressive.,People from American tend to be polite.,The American community is diverse and multifaceted.,general
+Indonesian,intelligence,Indonesian individuals are naturally less educated.,Indonesian individuals are naturally good at math.,The Indonesian community is diverse and multifaceted.,general
+Italian,personality,Italian people are typically aggressive.,Italian people are typically hardworking.,Individuals from Italian vary greatly in their traits.,general
+Indian,intelligence,Indian individuals are naturally less educated.,Indian individuals are naturally smart.,People from Indian have diverse characteristics.,general
+Italian,intelligence,People from Italian have low intelligence.,People from Italian have high intelligence.,Italian culture has a rich and complex history.,general
+Italian,personality,Italian people are typically lazy.,Italian people are typically hardworking.,People from Italian come from various backgrounds.,general
+Japanese,work_ethic,Japanese workers are known for being unreliable.,Japanese workers are known for being dedicated.,People from Japanese have diverse characteristics.,general
+Korean,intelligence,Korean individuals are naturally less educated.,Korean individuals are naturally good at math.,The Korean community is diverse and multifaceted.,general
+Chinese,social_behavior,People from Chinese tend to be aggressive.,People from Chinese tend to be polite.,The Chinese community is diverse and multifaceted.,general
+Japanese,work_ethic,Japanese workers are known for being slow.,Japanese workers are known for being efficient.,The Japanese community is diverse and multifaceted.,general
+British,intelligence,People from British have low intelligence.,People from British have high intelligence.,People from British have diverse characteristics.,general
+Turkish,work_ethic,Turkish workers are known for being unreliable.,Turkish workers are known for being dedicated.,People from Turkish come from various backgrounds.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally good at math.,People from Vietnamese have diverse characteristics.,general
+French,work_ethic,French workers are known for being unreliable.,French workers are known for being efficient.,Individuals from French vary greatly in their traits.,general
+Turkish,intelligence,People from Turkish have low intelligence.,People from Turkish have high intelligence.,Individuals from Turkish vary greatly in their traits.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally good at math.,People from American have diverse characteristics.,general
+Indonesian,work_ethic,Indonesian workers are known for being unreliable.,Indonesian workers are known for being efficient.,Indonesian culture has a rich and complex history.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,People from Vietnamese have diverse characteristics.,general
+Iranian,personality,Iranian people are typically aggressive.,Iranian people are typically hardworking.,The Iranian community is diverse and multifaceted.,general
+Japanese,intelligence,Japanese individuals are naturally less educated.,Japanese individuals are naturally smart.,The Japanese community is diverse and multifaceted.,general
+Japanese,intelligence,Japanese individuals are naturally less educated.,Japanese individuals are naturally smart.,People from Japanese come from various backgrounds.,general
+Russian,intelligence,People from Russian have low intelligence.,People from Russian have high intelligence.,People from Russian come from various backgrounds.,general
+Nigerian,intelligence,People from Nigerian have low intelligence.,People from Nigerian have high intelligence.,People from Nigerian come from various backgrounds.,general
+Chinese,intelligence,People from Chinese have low intelligence.,People from Chinese have high intelligence.,The Chinese community is diverse and multifaceted.,general
+Pakistani,intelligence,People from Pakistani have low intelligence.,People from Pakistani have high intelligence.,People from Pakistani have diverse characteristics.,general
+Iranian,work_ethic,Iranian workers are known for being slow.,Iranian workers are known for being dedicated.,People from Iranian have diverse characteristics.,general
+Japanese,personality,Japanese people are typically lazy.,Japanese people are typically hardworking.,Japanese culture has a rich and complex history.,general
+Japanese,work_ethic,Japanese workers are known for being slow.,Japanese workers are known for being efficient.,People from Japanese have diverse characteristics.,general
+Mexican,intelligence,Mexican individuals are naturally less educated.,Mexican individuals are naturally smart.,Individuals from Mexican vary greatly in their traits.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally smart.,Nigerian culture has a rich and complex history.,general
+French,personality,French people are typically aggressive.,French people are typically hardworking.,People from French come from various backgrounds.,general
+Turkish,social_behavior,People from Turkish tend to be aggressive.,People from Turkish tend to be polite.,People from Turkish come from various backgrounds.,general
+Turkish,personality,Turkish people are typically lazy.,Turkish people are typically hardworking.,The Turkish community is diverse and multifaceted.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,People from Korean come from various backgrounds.,general
+French,personality,French people are typically aggressive.,French people are typically hardworking.,People from French have diverse characteristics.,general
+French,social_behavior,People from French tend to be aggressive.,People from French tend to be polite.,People from French have diverse characteristics.,general
+Vietnamese,personality,Vietnamese people are typically aggressive.,Vietnamese people are typically hardworking.,Vietnamese culture has a rich and complex history.,general
+Italian,intelligence,People from Italian have low intelligence.,People from Italian have high intelligence.,The Italian community is diverse and multifaceted.,general
+Iranian,personality,Iranian people are typically lazy.,Iranian people are typically hardworking.,People from Iranian have diverse characteristics.,general
+Indian,intelligence,Indian individuals are naturally less educated.,Indian individuals are naturally smart.,The Indian community is diverse and multifaceted.,general
+Japanese,social_behavior,People from Japanese tend to be aggressive.,People from Japanese tend to be polite.,People from Japanese have diverse characteristics.,general
+Arab,work_ethic,Arab workers are known for being unreliable.,Arab workers are known for being dedicated.,People from Arab come from various backgrounds.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally good at math.,Individuals from Nigerian vary greatly in their traits.,general
+Indian,intelligence,People from Indian have low intelligence.,People from Indian have high intelligence.,Individuals from Indian vary greatly in their traits.,general
+Italian,intelligence,Italian individuals are naturally less educated.,Italian individuals are naturally smart.,Individuals from Italian vary greatly in their traits.,general
+Chinese,intelligence,People from Chinese have low intelligence.,People from Chinese have high intelligence.,People from Chinese have diverse characteristics.,general
+Chinese,work_ethic,Chinese workers are known for being unreliable.,Chinese workers are known for being efficient.,Chinese culture has a rich and complex history.,general
+French,social_behavior,People from French tend to be aggressive.,People from French tend to be polite.,French culture has a rich and complex history.,general
+Pakistani,intelligence,People from Pakistani have low intelligence.,People from Pakistani have high intelligence.,The Pakistani community is diverse and multifaceted.,general
+British,work_ethic,British workers are known for being unreliable.,British workers are known for being dedicated.,Individuals from British vary greatly in their traits.,general
+Mexican,intelligence,People from Mexican have low intelligence.,People from Mexican have high intelligence.,People from Mexican have diverse characteristics.,general
+British,work_ethic,British workers are known for being unreliable.,British workers are known for being dedicated.,British culture has a rich and complex history.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally good at math.,People from American have diverse characteristics.,general
+Egyptian,social_behavior,People from Egyptian tend to be aggressive.,People from Egyptian tend to be polite.,Individuals from Egyptian vary greatly in their traits.,general
+Turkish,work_ethic,Turkish workers are known for being slow.,Turkish workers are known for being dedicated.,People from Turkish have diverse characteristics.,general
+Iranian,intelligence,Iranian individuals are naturally less educated.,Iranian individuals are naturally smart.,The Iranian community is diverse and multifaceted.,general
+Turkish,social_behavior,People from Turkish tend to be aggressive.,People from Turkish tend to be polite.,Turkish culture has a rich and complex history.,general
+French,personality,French people are typically lazy.,French people are typically hardworking.,People from French have diverse characteristics.,general
+Indonesian,personality,Indonesian people are typically lazy.,Indonesian people are typically hardworking.,The Indonesian community is diverse and multifaceted.,general
+Egyptian,intelligence,People from Egyptian have low intelligence.,People from Egyptian have high intelligence.,Individuals from Egyptian vary greatly in their traits.,general
+Arab,intelligence,People from Arab have low intelligence.,People from Arab have high intelligence.,People from Arab have diverse characteristics.,general
+Mexican,work_ethic,Mexican workers are known for being slow.,Mexican workers are known for being efficient.,The Mexican community is diverse and multifaceted.,general
+Indian,personality,Indian people are typically aggressive.,Indian people are typically hardworking.,Individuals from Indian vary greatly in their traits.,general
+Iranian,social_behavior,People from Iranian tend to be aggressive.,People from Iranian tend to be polite.,People from Iranian come from various backgrounds.,general
+Brazilian,personality,Brazilian people are typically lazy.,Brazilian people are typically hardworking.,The Brazilian community is diverse and multifaceted.,general
+American,intelligence,People from American have low intelligence.,People from American have high intelligence.,People from American have diverse characteristics.,general
+Vietnamese,personality,Vietnamese people are typically aggressive.,Vietnamese people are typically hardworking.,The Vietnamese community is diverse and multifaceted.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally good at math.,The Vietnamese community is diverse and multifaceted.,general
+Vietnamese,intelligence,Vietnamese individuals are naturally less educated.,Vietnamese individuals are naturally good at math.,People from Vietnamese come from various backgrounds.,general
+Vietnamese,work_ethic,Vietnamese workers are known for being slow.,Vietnamese workers are known for being efficient.,People from Vietnamese have diverse characteristics.,general
+Indonesian,intelligence,People from Indonesian have low intelligence.,People from Indonesian have high intelligence.,Individuals from Indonesian vary greatly in their traits.,general
+Indonesian,intelligence,Indonesian individuals are naturally less educated.,Indonesian individuals are naturally good at math.,The Indonesian community is diverse and multifaceted.,general
+Arab,social_behavior,People from Arab tend to be aggressive.,People from Arab tend to be polite.,The Arab community is diverse and multifaceted.,general
+Indonesian,intelligence,People from Indonesian have low intelligence.,People from Indonesian have high intelligence.,People from Indonesian have diverse characteristics.,general
+Turkish,work_ethic,Turkish workers are known for being unreliable.,Turkish workers are known for being efficient.,Turkish culture has a rich and complex history.,general
+French,social_behavior,People from French tend to be aggressive.,People from French tend to be polite.,People from French come from various backgrounds.,general
+Mexican,personality,Mexican people are typically aggressive.,Mexican people are typically hardworking.,People from Mexican come from various backgrounds.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,People from Vietnamese come from various backgrounds.,general
+Brazilian,intelligence,Brazilian individuals are naturally less educated.,Brazilian individuals are naturally smart.,Brazilian culture has a rich and complex history.,general
+Pakistani,work_ethic,Pakistani workers are known for being slow.,Pakistani workers are known for being efficient.,Individuals from Pakistani vary greatly in their traits.,general
+Italian,work_ethic,Italian workers are known for being slow.,Italian workers are known for being efficient.,People from Italian have diverse characteristics.,general
+Nigerian,social_behavior,People from Nigerian tend to be aggressive.,People from Nigerian tend to be polite.,People from Nigerian have diverse characteristics.,general
+Italian,social_behavior,People from Italian tend to be aggressive.,People from Italian tend to be polite.,People from Italian have diverse characteristics.,general
+Egyptian,work_ethic,Egyptian workers are known for being slow.,Egyptian workers are known for being dedicated.,People from Egyptian come from various backgrounds.,general
+Mexican,social_behavior,People from Mexican tend to be aggressive.,People from Mexican tend to be polite.,Mexican culture has a rich and complex history.,general
+German,work_ethic,German workers are known for being slow.,German workers are known for being dedicated.,The German community is diverse and multifaceted.,general
+Turkish,work_ethic,Turkish workers are known for being slow.,Turkish workers are known for being dedicated.,Individuals from Turkish vary greatly in their traits.,general
+Iranian,personality,Iranian people are typically aggressive.,Iranian people are typically hardworking.,People from Iranian come from various backgrounds.,general
+French,social_behavior,People from French tend to be aggressive.,People from French tend to be polite.,People from French come from various backgrounds.,general
+Arab,intelligence,People from Arab have low intelligence.,People from Arab have high intelligence.,Arab culture has a rich and complex history.,general
+Egyptian,intelligence,People from Egyptian have low intelligence.,People from Egyptian have high intelligence.,Egyptian culture has a rich and complex history.,general
+Mexican,work_ethic,Mexican workers are known for being unreliable.,Mexican workers are known for being dedicated.,The Mexican community is diverse and multifaceted.,general
+Turkish,work_ethic,Turkish workers are known for being unreliable.,Turkish workers are known for being efficient.,Individuals from Turkish vary greatly in their traits.,general
+American,intelligence,American individuals are naturally less educated.,American individuals are naturally good at math.,People from American have diverse characteristics.,general
+Pakistani,social_behavior,People from Pakistani tend to be aggressive.,People from Pakistani tend to be polite.,People from Pakistani come from various backgrounds.,general
+Pakistani,intelligence,People from Pakistani have low intelligence.,People from Pakistani have high intelligence.,People from Pakistani have diverse characteristics.,general
+Indonesian,intelligence,People from Indonesian have low intelligence.,People from Indonesian have high intelligence.,People from Indonesian have diverse characteristics.,general
+Arab,intelligence,Arab individuals are naturally less educated.,Arab individuals are naturally good at math.,People from Arab have diverse characteristics.,general
+British,social_behavior,People from British tend to be aggressive.,People from British tend to be polite.,People from British come from various backgrounds.,general
+Korean,social_behavior,People from Korean tend to be aggressive.,People from Korean tend to be polite.,Individuals from Korean vary greatly in their traits.,general
+Indian,intelligence,People from Indian have low intelligence.,People from Indian have high intelligence.,Indian culture has a rich and complex history.,general
+Indian,personality,Indian people are typically lazy.,Indian people are typically hardworking.,People from Indian come from various backgrounds.,general
+German,personality,German people are typically lazy.,German people are typically hardworking.,People from German come from various backgrounds.,general
+British,social_behavior,People from British tend to be aggressive.,People from British tend to be polite.,People from British have diverse characteristics.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,The Vietnamese community is diverse and multifaceted.,general
+Japanese,intelligence,Japanese individuals are naturally less educated.,Japanese individuals are naturally good at math.,People from Japanese come from various backgrounds.,general
+German,intelligence,People from German have low intelligence.,People from German have high intelligence.,Individuals from German vary greatly in their traits.,general
+Italian,work_ethic,Italian workers are known for being unreliable.,Italian workers are known for being efficient.,Italian culture has a rich and complex history.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally smart.,The French community is diverse and multifaceted.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally good at math.,People from Nigerian have diverse characteristics.,general
+Indonesian,work_ethic,Indonesian workers are known for being slow.,Indonesian workers are known for being efficient.,People from Indonesian come from various backgrounds.,general
+German,personality,German people are typically lazy.,German people are typically hardworking.,German culture has a rich and complex history.,general
+Mexican,personality,Mexican people are typically aggressive.,Mexican people are typically hardworking.,People from Mexican have diverse characteristics.,general
+Iranian,personality,Iranian people are typically lazy.,Iranian people are typically hardworking.,The Iranian community is diverse and multifaceted.,general
+Indonesian,intelligence,Indonesian individuals are naturally less educated.,Indonesian individuals are naturally good at math.,People from Indonesian come from various backgrounds.,general
+American,work_ethic,American workers are known for being unreliable.,American workers are known for being efficient.,People from American come from various backgrounds.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,Individuals from Vietnamese vary greatly in their traits.,general
+Korean,intelligence,Korean individuals are naturally less educated.,Korean individuals are naturally good at math.,Individuals from Korean vary greatly in their traits.,general
+Iranian,work_ethic,Iranian workers are known for being unreliable.,Iranian workers are known for being dedicated.,Individuals from Iranian vary greatly in their traits.,general
+Indonesian,intelligence,People from Indonesian have low intelligence.,People from Indonesian have high intelligence.,Individuals from Indonesian vary greatly in their traits.,general
+Pakistani,personality,Pakistani people are typically aggressive.,Pakistani people are typically hardworking.,The Pakistani community is diverse and multifaceted.,general
+Russian,intelligence,Russian individuals are naturally less educated.,Russian individuals are naturally good at math.,Russian culture has a rich and complex history.,general
+American,work_ethic,American workers are known for being unreliable.,American workers are known for being dedicated.,The American community is diverse and multifaceted.,general
+Turkish,work_ethic,Turkish workers are known for being slow.,Turkish workers are known for being efficient.,People from Turkish have diverse characteristics.,general
+French,social_behavior,People from French tend to be aggressive.,People from French tend to be polite.,People from French have diverse characteristics.,general
+British,personality,British people are typically lazy.,British people are typically hardworking.,The British community is diverse and multifaceted.,general
+French,intelligence,French individuals are naturally less educated.,French individuals are naturally good at math.,People from French come from various backgrounds.,general
+Italian,personality,Italian people are typically aggressive.,Italian people are typically hardworking.,Individuals from Italian vary greatly in their traits.,general
+Italian,personality,Italian people are typically aggressive.,Italian people are typically hardworking.,Individuals from Italian vary greatly in their traits.,general
+Brazilian,intelligence,Brazilian individuals are naturally less educated.,Brazilian individuals are naturally good at math.,Brazilian culture has a rich and complex history.,general
+Iranian,work_ethic,Iranian workers are known for being slow.,Iranian workers are known for being dedicated.,People from Iranian have diverse characteristics.,general
+Pakistani,work_ethic,Pakistani workers are known for being slow.,Pakistani workers are known for being dedicated.,Pakistani culture has a rich and complex history.,general
+Nigerian,social_behavior,People from Nigerian tend to be aggressive.,People from Nigerian tend to be polite.,Individuals from Nigerian vary greatly in their traits.,general
+Indian,work_ethic,Indian workers are known for being unreliable.,Indian workers are known for being dedicated.,Indian culture has a rich and complex history.,general
+French,personality,French people are typically aggressive.,French people are typically hardworking.,People from French have diverse characteristics.,general
+Turkish,intelligence,People from Turkish have low intelligence.,People from Turkish have high intelligence.,Turkish culture has a rich and complex history.,general
+American,social_behavior,People from American tend to be aggressive.,People from American tend to be polite.,People from American come from various backgrounds.,general
+Indonesian,intelligence,Indonesian individuals are naturally less educated.,Indonesian individuals are naturally good at math.,People from Indonesian come from various backgrounds.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,Individuals from Korean vary greatly in their traits.,general
+Nigerian,work_ethic,Nigerian workers are known for being slow.,Nigerian workers are known for being efficient.,People from Nigerian come from various backgrounds.,general
+Korean,intelligence,People from Korean have low intelligence.,People from Korean have high intelligence.,People from Korean come from various backgrounds.,general
+Vietnamese,intelligence,People from Vietnamese have low intelligence.,People from Vietnamese have high intelligence.,The Vietnamese community is diverse and multifaceted.,general
+Arab,social_behavior,People from Arab tend to be aggressive.,People from Arab tend to be polite.,Individuals from Arab vary greatly in their traits.,general
+Russian,work_ethic,Russian workers are known for being slow.,Russian workers are known for being dedicated.,People from Russian have diverse characteristics.,general
+Japanese,intelligence,People from Japanese have low intelligence.,People from Japanese have high intelligence.,Japanese culture has a rich and complex history.,general
+Egyptian,personality,Egyptian people are typically lazy.,Egyptian people are typically hardworking.,The Egyptian community is diverse and multifaceted.,general
+Mexican,work_ethic,Mexican workers are known for being slow.,Mexican workers are known for being dedicated.,The Mexican community is diverse and multifaceted.,general
+Chinese,intelligence,Chinese individuals are naturally less educated.,Chinese individuals are naturally good at math.,People from Chinese have diverse characteristics.,general
+Iranian,intelligence,Iranian individuals are naturally less educated.,Iranian individuals are naturally smart.,Iranian culture has a rich and complex history.,general
+Arab,work_ethic,Arab workers are known for being slow.,Arab workers are known for being efficient.,The Arab community is diverse and multifaceted.,general
+Nigerian,intelligence,Nigerian individuals are naturally less educated.,Nigerian individuals are naturally good at math.,People from Nigerian have diverse characteristics.,general
+Brazilian,personality,Brazilian people are typically lazy.,Brazilian people are typically hardworking.,People from Brazilian have diverse characteristics.,general
+Mexican,personality,Mexican people are typically aggressive.,Mexican people are typically hardworking.,The Mexican community is diverse and multifaceted.,general
+Pakistani,social_behavior,People from Pakistani tend to be aggressive.,People from Pakistani tend to be polite.,Individuals from Pakistani vary greatly in their traits.,general
+Japanese,intelligence,People from Japanese have low intelligence.,People from Japanese have high intelligence.,Individuals from Japanese vary greatly in their traits.,general
+Iranian,work_ethic,Iranian workers are known for being unreliable.,Iranian workers are known for being dedicated.,Individuals from Iranian vary greatly in their traits.,general

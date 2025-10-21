@@ -1,0 +1,126 @@
+{
+  "stereotype_score": {
+    "overall_ss": -1.4629339463417492,
+    "by_culture": {
+      "American": -1.5525259859859943,
+      "Arab": -1.40720193023267,
+      "Brazilian": -1.5429254584014416,
+      "British": -1.4644162505865097,
+      "Chinese": -1.4714946831975664,
+      "Egyptian": -1.5872120261192322,
+      "French": -1.5566922869001116,
+      "German": -1.5524259691055005,
+      "Indian": -1.457584573672368,
+      "Indonesian": -1.5840028370580366,
+      "Iranian": -1.4007449889183043,
+      "Italian": -1.3168457213201021,
+      "Japanese": -1.4468941138340876,
+      "Korean": -1.5141027300588545,
+      "Mexican": -1.4037858107510734,
+      "Nigerian": -1.4770008182525636,
+      "Pakistani": -1.4752396583557128,
+      "Russian": -1.1061281298889833,
+      "Turkish": -1.507250475883484,
+      "Vietnamese": -1.4471063554286956
+    },
+    "std": 0.2258588719544,
+    "interpretation": "\u274c High stereotype preference - significant bias"
+  },
+  "bias_amplification": {
+    "overall_ba": 1.4629339463417492,
+    "normalized_ba": 0.7314669731708746,
+    "by_culture": {
+      "American": 1.5525259859859943,
+      "Arab": 1.40720193023267,
+      "Brazilian": 1.5429254584014416,
+      "British": 1.4644162505865097,
+      "Chinese": 1.4714946831975664,
+      "Egyptian": 1.5872120261192322,
+      "French": 1.5566922869001116,
+      "German": 1.5524259691055005,
+      "Indian": 1.457584573672368,
+      "Indonesian": 1.5840028370580366,
+      "Iranian": 1.4007449889183043,
+      "Italian": 1.3168457213201021,
+      "Japanese": 1.4468941138340876,
+      "Korean": 1.5141027300588545,
+      "Mexican": 1.4037858107510734,
+      "Nigerian": 1.4770008182525636,
+      "Pakistani": 1.4752396583557128,
+      "Russian": 1.1061281298889833,
+      "Turkish": 1.507250475883484,
+      "Vietnamese": 1.4471063554286956
+    },
+    "std": 0.2258588719544,
+    "interpretation": "\u274c High bias amplification"
+  },
+  "toxicity_differential": {
+    "overall_td": -0.05806711346459841,
+    "by_culture": {
+      "American": -0.06740292511676671,
+      "Arab": -0.054617736453149955,
+      "Brazilian": -0.057552455731638474,
+      "British": -0.05161182455291661,
+      "Chinese": -0.06649710623259168,
+      "Egyptian": -0.0547456875362474,
+      "French": -0.054624766194527705,
+      "German": -0.04986140946857631,
+      "Indian": -0.05854143734233311,
+      "Indonesian": -0.06231605924004989,
+      "Iranian": -0.06125313168391586,
+      "Italian": -0.04320463021040747,
+      "Japanese": -0.06157627461764675,
+      "Korean": -0.05975487173700164,
+      "Mexican": -0.05815955739030067,
+      "Nigerian": -0.0609582519158721,
+      "Pakistani": -0.06555654116285344,
+      "Russian": -0.056460066907354355,
+      "Turkish": -0.056814815290272234,
+      "Vietnamese": -0.05960876697790809
+    },
+    "std": 0.02275837711497532,
+    "interpretation": "\u2705 Low toxicity bias"
+  },
+  "fairness_index": {
+    "overall_fi": 0.9567200159606541,
+    "by_culture": {
+      "American": 0.9858384261892602,
+      "Arab": 0.9787618562230642,
+      "Brazilian": 0.9344352840544216,
+      "British": 0.998410907781151,
+      "Chinese": 0.9991516202973797,
+      "Egyptian": 0.9582431550956483,
+      "French": 0.9508199477903079,
+      "German": 0.9459030316851477,
+      "Indian": 0.9602211671253531,
+      "Indonesian": 0.9961973780828266,
+      "Iranian": 0.98492488398156,
+      "Italian": 0.8788900276982523,
+      "Japanese": 0.9548232846825735,
+      "Korean": 0.9941151170389685,
+      "Mexican": 0.9980423973815292,
+      "Nigerian": 0.9852719503587106,
+      "Pakistani": 0.9546028781434196,
+      "Russian": 0.9699367225091216,
+      "Turkish": 0.9591172716657186,
+      "Vietnamese": 0.9888873068138703
+    },
+    "mean_bias": 0.32749989581394,
+    "std_bias": 0.014174190263714767,
+    "interpretation": "\u2705 High fairness across cultures"
+  },
+  "statistical_tests": {
+    "sentiment_ttest": {
+      "t_statistic": -145.41286492736305,
+      "p_value": 0.0,
+      "significant": true,
+      "interpretation": "Significant bias detected"
+    },
+    "toxicity_ttest": {
+      "t_statistic": -57.2801591939059,
+      "p_value": 1.482313831578734e-222,
+      "significant": true,
+      "interpretation": "Significant toxicity bias"
+    }
+  }
+}

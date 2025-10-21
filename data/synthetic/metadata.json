@@ -1,0 +1,43 @@
+{
+  "total_samples": 2004,
+  "cultural_groups": [
+    "Indian",
+    "Chinese",
+    "Japanese",
+    "American",
+    "British",
+    "Mexican",
+    "Nigerian",
+    "Egyptian",
+    "Brazilian",
+    "Russian",
+    "Arab",
+    "Korean",
+    "French",
+    "German",
+    "Italian",
+    "Turkish",
+    "Iranian",
+    "Pakistani",
+    "Indonesian",
+    "Vietnamese"
+  ],
+  "bias_types": [
+    "occupation",
+    "personality",
+    "intelligence",
+    "work_ethic",
+    "social_behavior",
+    "family_values",
+    "religion",
+    "appearance",
+    "language_ability",
+    "trustworthiness"
+  ],
+  "datasets": {
+    "stereotype_pairs": 504,
+    "completion_prompts": 500,
+    "qa_prompts": 500,
+    "sentiment_prompts": 500
+  }
+}
