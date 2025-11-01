@@ -258,8 +258,8 @@ class BiasDetectionPipeline:
         </body>
         </html>
         """
-        
-        with open(output_path, "w", encoding="utf-8") as f:
+
+        with open("C:/Users/gaura/OneDrive/Desktop/bias_cultural_detection/results/bias_detection_report.html", "w", encoding="utf-8") as f:
             f.write(html_content)
         
         print(f"✓ HTML report generated: {report_file}")

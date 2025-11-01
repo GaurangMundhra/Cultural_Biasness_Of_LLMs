@@ -611,8 +611,9 @@ def main():
     st.markdown("")
     st.markdown("---")
     
-    # Main content with enhanced tabs
-    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+    # Main content with enhanced tabs - LIVE CHECKER FIRST!
+    tab0, tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+        "🔍 Live Bias Checker",
         "🏠 Overview",
         "🔥 Heatmaps", 
         "📊 Comparisons",
@@ -620,6 +621,16 @@ def main():
         "📈 Analytics",
         "📋 Data Explorer"
     ])
+    
+    with tab0:
+        # Import and render live bias checker
+        try:
+            from live_bias_checker import LiveBiasChecker
+            checker = LiveBiasChecker()
+            checker.render()
+        except ImportError:
+            st.error("Live Bias Checker module not found. Please ensure live_bias_checker.py is in the app/ directory")
+            st.info("This feature allows real-time bias detection for any user-input text.")
     
     with tab1:
         st.markdown("### 📌 Analysis Summary")

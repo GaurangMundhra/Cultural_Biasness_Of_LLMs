@@ -9,6 +9,7 @@ build/
 .eggs/
 
 # --- Virtual Environment ---
+.venv311/
 venv/
 env/
 ENV/

@@ -1,0 +1,109 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Cultural Bias Detection Report</title>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    max-width: 1200px;
+                    margin: 0 auto;
+                    padding: 20px;
+                    background-color: #f5f5f5;
+                }
+                .header {
+                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                    color: white;
+                    padding: 30px;
+                    border-radius: 10px;
+                    text-align: center;
+                }
+                .metric-card {
+                    background: white;
+                    padding: 20px;
+                    margin: 20px 0;
+                    border-radius: 8px;
+                    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+                }
+                .metric-value {
+                    font-size: 2em;
+                    font-weight: bold;
+                    color: #667eea;
+                }
+                .interpretation {
+                    color: #666;
+                    margin-top: 10px;
+                }
+                table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin: 20px 0;
+                }
+                th, td {
+                    padding: 12px;
+                    text-align: left;
+                    border-bottom: 1px solid #ddd;
+                }
+                th {
+                    background-color: #667eea;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="header">
+                <h1>🌍 Cultural Bias Detection Report</h1>
+                <p>Generated on 2025-11-01 18:47:50</p>
+            </div>
+            
+            <div class="metric-card">
+                <h2>📊 Key Metrics</h2>
+                <table>
+                    <tr>
+                        <th>Metric</th>
+                        <th>Value</th>
+                        <th>Interpretation</th>
+                    </tr>
+                    <tr>
+                        <td>Stereotype Score (SS)</td>
+                        <td class="metric-value">-1.463</td>
+                        <td class="interpretation">❌ High stereotype preference - significant bias</td>
+                    </tr>
+                    <tr>
+                        <td>Bias Amplification (BA)</td>
+                        <td class="metric-value">0.731</td>
+                        <td class="interpretation">❌ High bias amplification</td>
+                    </tr>
+                    <tr>
+                        <td>Toxicity Differential (TD)</td>
+                        <td class="metric-value">-0.058</td>
+                        <td class="interpretation">✅ Low toxicity bias</td>
+                    </tr>
+                    <tr>
+                        <td>Fairness Index (FI)</td>
+                        <td class="metric-value">0.957</td>
+                        <td class="interpretation">✅ High fairness across cultures</td>
+                    </tr>
+                </table>
+            </div>
+            
+            <div class="metric-card">
+                <h2>🎯 Recommendations</h2>
+                <ul>
+                    <li>Review cultures with highest bias scores for targeted debiasing</li>
+                    <li>Implement prompt debiasing techniques for problematic categories</li>
+                    <li>Consider counterfactual data augmentation for underrepresented groups</li>
+                    <li>Monitor fairness index to ensure equitable treatment across cultures</li>
+                </ul>
+            </div>
+            
+            <div class="metric-card">
+                <h2>📈 Next Steps</h2>
+                <p>Launch the interactive dashboard for detailed analysis:</p>
+                <code style="background: #f0f0f0; padding: 10px; display: block; margin: 10px 0;">
+                    streamlit run app/streamlit_app.py
+                </code>
+            </div>
+        </body>
+        </html>
+        
